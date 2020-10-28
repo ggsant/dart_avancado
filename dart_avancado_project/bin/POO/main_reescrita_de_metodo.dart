@@ -45,4 +45,9 @@ class Adm {
 
 class Manager extends Person with Adm {
   int table;
+
+  void cameIn() {
+    super.cameIn(); //* acesso ao metodo da classe pai
+    print('oieeee');
+  }
 }
