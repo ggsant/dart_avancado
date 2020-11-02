@@ -141,3 +141,8 @@ Para chamar um método utilizamos também o "." e depois o nome do método, conf
 No comando acima irá retornar a idade conforme a função aniver();, ou seja irá retornar o número 31 (30+1).
 
 **OBS. caso queira colocar uma atributo privado, basta colocar um underline antes do atributo que deseja ser privado, exemplo, _altura = 1.70;**
+
+
+
+
+**Referências - Flutter Brasil**
