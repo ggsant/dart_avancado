@@ -66,7 +66,7 @@ Na Listagem 5 temos um exemplo de uso da propriedade length, que retorna o núme
 
 Uma runa é um número inteiro que representa **uma unidade de código UTF-16** . Por exemplo o sinal de música **♭** é representado pela string **\u266D**. O número inteiro 9837 é a sua runa.
 
-Esse número inteiro pode ser utilizado para representar esse caractere em uma página HTML por colocar o prefixo &# e adicionar ; no final. Ex.: (<p>♭</p>)
+Esse número inteiro pode ser utilizado para representar esse caractere em uma página HTML por colocar o prefixo &# e adicionar ; no final.
 
 A propriedade runes retorna as runas em uma string e runes.length o número de runas em uma string.
 
