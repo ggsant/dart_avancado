@@ -1,5 +1,7 @@
 # Programação Orientada a Objetos
 
+![poo](https://user-images.githubusercontent.com/61892998/97894335-24900580-1d11-11eb-83af-a8f4fac7e3a8.png)
+
 Um dos maiores erros de quem entra no mundo da programação é querer passar a carroça na frente dos bois. Antes de aprender o Framework da moda ou ir se aventurar em uma nova linguagem de programação, é importante ter em mente os conceitos "básicos" que ajudam a construir um conhecimento sólido e diminuir a curva de aprendizagem ao se deparar com uma nova tecnologia.
 
 Eu ainda não faço computação, então eu busco criar esse conhecimento de maneira autodidata. Recentemente, percebi que uma das lacunas que eu encontrei no meu conhecimento, foi o conceito de Programação Orientada a Objetos. Então resolvi recorrer ao meu grande mestre Professor Gustavo Guanabara, do Curvo em Vídeo para reforçar os confeitos que eu já uso no estágio, mas que muita das vezes não ficavam claros na minha cabeça. O curso é desenvolvido em Java, porém como eu trabalho com Dart, eu decidi reproduzir o aprendizado nas aulas nessa linguagem.
